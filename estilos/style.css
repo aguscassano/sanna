@@ -168,7 +168,8 @@ footer {
     }
 
     .about {
+        height: auto;
         justify-content: center;
-        padding-bottom: 50%;
+        
     }
 }
