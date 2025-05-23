@@ -20,9 +20,7 @@ h3 {
     margin-bottom: 1rem;
 }
 
-.barra-img {
-    margin-left: 150px;
-}
+
 
 .barra-link {
     margin-right: 150px;
@@ -33,13 +31,19 @@ h3 {
 }
 
 .hero {
-    height: 100px;
     background-color: #eee5da;
 }
 
+
+
 .logo {
-    max-width: 140px;
-    margin-bottom: 1rem;
+    margin-left: 150px;
+    align-self: center;
+    justify-self: center;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 2.5rem;
+    color: #7c7563;
 }
 
 .navbar-collapse {
@@ -93,10 +97,12 @@ h3 {
 
 .about h2 {
     font-size: 3rem;
+    margin-bottom: 0;
 }
 
 .about h3 {
     color: #7c7563;
+    font-weight: 500;
 }
 
 .about a {
@@ -163,7 +169,7 @@ footer {
         overflow-x: hidden;
     }
 
-    .barra-img {
+    .logo {
         margin-left: 0;
     }
 
