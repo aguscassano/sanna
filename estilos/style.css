@@ -95,6 +95,10 @@ h3 {
     font-size: 3rem;
 }
 
+.about h3 {
+    color: #7c7563;
+}
+
 .about a {
     width: 300px;
     align-self: center;
